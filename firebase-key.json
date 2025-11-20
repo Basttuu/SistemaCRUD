@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "facturacion-movil-5d841",
+  "private_key_id": "48ae74238eee0f43e569effa248d0f7b27151f53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTnnpq5wOxqsUN\nPgQeQfIMN+2QnoMdjTEAuYBxvO7a1kpCbee5PesPEmXNkkYwbpmXmWjdYjJnEt5Y\ntBaArsUHM8tVcG5YrzsnbFwAIFtKYRKnT7z9/NXNw222mvPrs2op5SQGP3KxegDc\nC0G/2jI/Q8Vg2PXDy8Jbue7ZfqB6TMPaFoEK31LFXlwzTNP+/+P6WzlLSYODKoNS\n8ZjZ/azNy9BDnTAiX3eRWPd6L53JO2PY5xp/vNrJc2w4giuRKbmM52NOkeXqIEpy\nRKM1peLsRrHvQvungHlSZRKLMolealE38tqRMwvUIMQYb4HmMT8hWHGGCjJH9+gd\nKBTW8ilJAgMBAAECggEALT6o9cpGo+nbD6W+w6ld0vbyOAVsCxlw7LK8n5TBjNBc\nOC+/Z3+xjhtk4LrxftFmzV7jaNHh7N+/4j8+wGyde5i7VJ0hOpzcjOVCFlTUr+Zp\nUpRd2AACxmeOQYiHtlE51ZNETIGsR/3JyUIu4JIKRDR9MuOwSBh8iZgLVT0ZmowD\nkwoWuKQwTcUZUNc9IFgg8CUO3+P8rSr+F8BYCTL8SSUAaQyAGOjVOIw7BTTr8DYS\na0dMHy/C2mJwrk1kvuWoZHyJ5rqFL/7zy8j5+i/ODwFU2+7XZoJQs7plG81h5rLT\nStUdLy44q1v9WxMLdu/FjpNhXGLZe8+X1PTw9WK/wQKBgQDvMHOPEo/vCnSbnLkx\nzTAhfaKqguL30OL9rFoS9D+iLOlVZbYcQQRGWp1DFjnLKmJpFpgPSAEPhUgIMY+i\nS2ppCx4LxnYnR9A2wYg68LmmkxeC3Fmf9abBYls757GG9hgn2SmVCt+W5snQoJeX\nPlt0QKiuf7YyJ2vzIoxjn2V33QKBgQDifforuf4bawLDLwMLgsLyfvMvnXNAVGCa\nIttYadDxMbTGwnseAz+aIbuQ/k6FbVXmDXoZWZJksg76xy79rxXIBuvwNaqLgUcq\nON7LvydHspKTURu4/lWH4vk740Ho+V804vscquCBGkWeM1wlOtA6uHmvAUggmWbW\ntrPYyLE2XQKBgD9bxkCP2jCnxFu0GBppD+bPMNeZ9CVQ38/yZ6m9qV18KBLG7oZt\ncoRwXFf4+zYl9AuCQKVLnXxPAdWpyzJiZ72LhFn6KDIfg7f9a+iw+3x0WjX/yH3m\nxFVViHVF2nC1n5BupeUlDDUczTjGUWFu0yroNcaDbe+7IY02CZoaDvbBAoGBAI/7\nQdQWUsGfT4xBEJB6ue9qYLI+R4v3l8mkqwgTjK4nySIpdBbqPb5//zr3T3dmwBqV\nKq9+z5+PyhIGGYtPiGs2azqzAw3YSyM+L/QaOqBLlv5rq1H47OqLkaFOoRG3pZx7\nRuM8hafMycD+KW/JaaJKr6BfEjkXC9cnIkGHo5BJAoGAYn1TAD7xt7XRxZLG1qEC\n+X5Zfl4iGMrVxesbXW5Pvp3KLXEFvjrv/inH6LiU/z9+lKONru/IPMQpc2exwhFC\nNIBkvtrcJ5NcKKnP3Xzm7UYj3epdPQES5+ZsMxGRyUvAgpFB+z60Yz1iKcFXttPz\neBEl1S6lmvcGwg6Jdl7QnOY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@facturacion-movil-5d841.iam.gserviceaccount.com",
+  "client_id": "108979209933254476673",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40facturacion-movil-5d841.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
