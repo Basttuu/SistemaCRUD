@@ -10,7 +10,7 @@ if firebase_key:
     cred = credentials.Certificate(cred_info)
 else:
     # Local
-    cred = credentials.Certificate("firebase_key.json")
+    cred = credentials.Certificate("firebase-key.json")
 
 initialize_app(cred)
 db = firestore.client()
