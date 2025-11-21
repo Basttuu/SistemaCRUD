@@ -1,10 +1,12 @@
-import firebase_admin
-from firebase_admin import credentials, firestore
+import os
+import json
+from firebase_admin import credentials, firestore, initialize_app
 
-# Inicializar Firebase solo una vez
-if not firebase_admin._apps:
-    cred = credentials.Certificate("firebase-key.json")  # <-- tu archivo JSON
-    firebase_admin.initialize_app(cred)
+# Cargar FIREBASE_KEY desde variable de entorno en Railway
+firebase_key = os.getenv("FIREBASE_KEY")
 
-# Crear el cliente de Firestore
+cred_info = json.loads(firebase_key)
+cred = credentials.Certificate(cred_info)
+initialize_app(cred)
+
 db = firestore.client()
