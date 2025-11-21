@@ -2,11 +2,15 @@ import os
 import json
 from firebase_admin import credentials, firestore, initialize_app
 
-# Cargar FIREBASE_KEY desde variable de entorno en Railway
 firebase_key = os.getenv("FIREBASE_KEY")
 
-cred_info = json.loads(firebase_key)
-cred = credentials.Certificate(cred_info)
-initialize_app(cred)
+if firebase_key:
+    # Railway
+    cred_info = json.loads(firebase_key)
+    cred = credentials.Certificate(cred_info)
+else:
+    # Local
+    cred = credentials.Certificate("firebase_key.json")
 
+initialize_app(cred)
 db = firestore.client()
